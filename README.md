@@ -17,9 +17,9 @@ I'm also technical writer. Check out some of my latest articles:
 
 ## 😸 Trivia
 
-- 🔭 Currently working with Vue.js and Docker
-- 🌱 Currently learning Azure
-- 📚 Currently reading **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**
+- 🔭 Working with Vue.js and Docker
+- 🌱 Learning Azure
+- 📚 Reading **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**
 
 ## 📫 Where to find me
 - [My website](https://ramigs.dev)
