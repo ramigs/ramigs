@@ -9,7 +9,7 @@
 I'm a software engineer with 10+ years experience, currently focusing on
 JavaScript, Docker, and DevOps.
 
-I'm also technical writer. Check out some of my latest articles:
+I'm also a technical writer. Check out some of my latest articles:
 
 * [Load testing with Artillery](https://ramigs.dev/blog/load-testing-artillery/)
 * [Automating database backups](https://ramigs.dev/blog/automating-database-backups/)
