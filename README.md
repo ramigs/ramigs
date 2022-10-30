@@ -18,7 +18,7 @@ I'm also a technical writer. Check out some of my latest articles:
 ## 😸 Trivia
 
 - 🔭 Working with Vue.js and Docker
-- 🌱 Learning Azure
+- 🌱 Learning DigitalOcean
 - 📚 Reading **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**
 
 ## 📫 Where to find me
