@@ -4,7 +4,7 @@
 
 ---
 
-# Hi, I'm Rami 👋 💻
+## Hi, I'm Rami 👋 💻
 
 I'm a software engineer with 10+ years experience, currently focusing on
 JavaScript, Docker, and DevOps.
