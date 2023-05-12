@@ -11,9 +11,9 @@ JavaScript, Docker, and DevOps.
 
 I'm also a technical writer. Check out some of my latest articles:
 
-* [Load testing with Artillery](https://ramigs.dev/blog/load-testing-artillery/)
-* [Automating database backups](https://ramigs.dev/blog/automating-database-backups/)
-* [Strapi Authentication in Nuxt.js](https://ramigs.dev/blog/strapi-authentication-in-nuxt-js/)
+- [Load testing with Artillery](https://ramigs.dev/blog/load-testing-artillery/)
+- [Automating database backups](https://ramigs.dev/blog/automating-database-backups/)
+- [Strapi Authentication in Nuxt.js](https://ramigs.dev/blog/strapi-authentication-in-nuxt-js/)
 
 ## 😸 Trivia
 
@@ -22,7 +22,6 @@ I'm also a technical writer. Check out some of my latest articles:
 - 📚 Reading **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**
 
 ## 📫 Where to find me
+
 - [My website](https://ramigs.dev)
-- [Twitter](https://twitter.com/ramigsDev)
-- [LinkedIn](https://www.linkedin.com/in/ramigs)
 - [Stack Overflow](https://stackoverflow.com/users/10485152/ramigs)
