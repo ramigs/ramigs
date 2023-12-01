@@ -4,9 +4,7 @@
 
 ---
 
-## Hi, I'm Rami 👋 💻
-
-I'm a software engineer with 10+ years experience, currently focusing on
+I'm a software developer with 10+ years experience, currently focusing on
 JavaScript, Docker, and DevOps.
 
 I'm also a technical writer. Check out some of my latest articles:
@@ -18,7 +16,6 @@ I'm also a technical writer. Check out some of my latest articles:
 ## 😸 Trivia
 
 - Working with Vue.js and Docker
-- Learning DigitalOcean
 - 📚 Reading **The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations**
 
 ## 📫 Where to find me
