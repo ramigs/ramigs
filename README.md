@@ -1,4 +1,4 @@
-Frontend Engineer, Payments — Independent consultant. 
+Independent consultant. 
 
 Vue, Nuxt,TypeScript. 
 
