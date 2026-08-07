@@ -1,4 +1,4 @@
-Independent contractor. Vue, Nuxt,TypeScript.
+Vue, Nuxt,TypeScript.
 
 Experience integrating:
 - Card payments — tokenization, 3DS, Evervault/PCI-Proxy
