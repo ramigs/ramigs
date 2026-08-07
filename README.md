@@ -1,7 +1,9 @@
-Independent contractor.
+Independent contractor. Vue, Nuxt,TypeScript.
 
-Vue, Nuxt,TypeScript.
-
-Experience integrating card payments (tokenization, 3DS, Evervault/PCI-Proxy), wallets (Apple Pay, Google Pay), and open banking (Pix, Boleto, Trustly, Volt).
+Experience integrating:
+- Card payments — tokenization, 3DS, Evervault/PCI-Proxy
+- Wallets — Apple Pay, Google Pay
+- Open banking — Trustly, Volt
+- Local/alternative methods — Pix, Boleto
 
 Writing at [ramigs.dev](https://ramigs.dev).
